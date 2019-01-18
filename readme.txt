@@ -3,6 +3,8 @@ Such a system can be used to automatically interpret engineering drawings etc.
 Three gray-level images are provided to you: 
 hough_simple_1.pgm, hough_simple_2.pgm and hough_complex_1.pgm.
 
+To compile run use makefile with makeall.
+
 to run h1
 ./h1.exe input.pgm output1.pgm
 
